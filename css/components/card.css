@@ -1,0 +1,23 @@
+.card-template {
+object-fit: cover;
+box-shadow: 0px 0px 5px rgb(230,230,230);
+padding: 15px;
+border-radius: 4px;
+}
+
+.card-template img {
+height: 100px;
+object-fit: cover;
+}
+
+.card-template h3 {
+padding: 10px 0px;
+}
+
+.card-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+
+

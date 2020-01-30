@@ -1,0 +1,32 @@
+.footer {
+  background-color: #2C2A2A;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 60px;
+
+}
+
+.footer a {
+  font-size: 30px;
+  color: #1EDD88;
+  padding: 3px;
+}
+
+.social p {
+  color: #6B6C6C;
+}
+.fa-heart {
+  color: red;
+}
+
+.list-in-line {
+  padding: 0px;
+  text-align: center;
+
+  }
+
+
+
+
+

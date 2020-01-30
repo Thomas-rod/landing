@@ -1,0 +1,26 @@
+.banner {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-image: url('../../images/background.png');
+  height: 590px;
+}
+
+.banner-ctas h1, .banner-ctas p {
+  color: white;
+}
+
+.banner-ctas h1 {
+  font-family: 'poppins', 'sans-serif';
+  font-size: 32px;
+}
+
+.banner-ctas p {
+  font-family: 'Open Sans', 'sans-serif';
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+.banner-ctas a {
+  margin-top: 20px;
+}
